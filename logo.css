@@ -1,0 +1,44 @@
+h1{
+    font-family: Helvetica;
+}
+
+.backgroundPink{
+    background-color: rgb(183, 36, 65);
+    color: white;
+    width: 100%;
+    border: rgb(183, 36, 65) 1px solid;
+    font-weight: normal;
+    font-style: normal;
+    padding: 2px;
+}
+
+.chevron{
+    font-size: 1.2em;
+    margin: 4px;
+    font-weight: normal;
+}
+
+.underline{
+    border-bottom: solid 1px black;
+    width: 241px;
+    position: relative;
+    bottom: 21px;
+    left: 30px;
+}
+
+h2{
+    font-family: Helvetica;
+    font-weight: normal;
+    font-size: 1.2em;
+}
+
+.flexRow{
+    width: 238px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    bottom: 34px;
+    left: 30px;
+    color: rgb(80, 80, 80);
+}
